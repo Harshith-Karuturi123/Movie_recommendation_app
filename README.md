@@ -24,20 +24,19 @@ Sign in to github
 16.	Check python version
 17.	python -m venv .venv (create venv)
 18.	source .venv/Scripts/activate(Windows) or source .venv/bin/activate (works for macos)
-19.	
-20.	pip install -r requirements.txt
-21.	create app.py
-22.	Write or copy the code
-23.	Run the app file (python run app.py) - Optional
-24.	lets say you want to test the code written so far use command streamlit run app.py
-25.	for the first time it will ask for some credentials
-26.	once you are done running the app go to gitbash
-27.	activate venv (if needed) then type git init
-28.	git add. (add everything)
-29.	git commit -m "Final-Commit"
-30.	If running git the first time: git config --global user.email git config --global user.name <user_name>
-31.	git push origin main
-32.	git commit -m "Final-Commit"
-33.	git push origin main
-34.	GO to streamlit and login using GitHub , click on create app
+19.	pip install -r requirements.txt
+20.	create app.py
+21.	Write or copy the code
+22.	Run the app file (python run app.py) - Optional
+23.	lets say you want to test the code written so far use command streamlit run app.py
+24.	for the first time it will ask for some credentials
+25.	once you are done running the app go to gitbash
+26.	activate venv (if needed) then type git init
+27.	git add. (add everything)
+28.	git commit -m "Final-Commit"
+29.	If running git the first time: git config --global user.email git config --global user.name <user_name>
+30.	git push origin main
+31.	git commit -m "Final-Commit"
+32.	git push origin main
+33.	GO to streamlit and login using GitHub , click on create app
 
