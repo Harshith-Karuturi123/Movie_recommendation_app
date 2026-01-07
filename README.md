@@ -2,7 +2,7 @@
 We will use GenAI model like google gemini to suggest a movie similar to the user input
 
 # App link
-https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright
+https://movierecommendationapp-wmxitxf7kl5cwgd7evbefb.streamlit.app/
 
 # How does it work:
 Sign in to github
