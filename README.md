@@ -1,6 +1,9 @@
 # Movie_recommendation_app
 We will use GenAI model like google gemini to suggest a movie similar to the user input
 
+# App link
+https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright
+
 # How does it work:
 Sign in to github
 
@@ -26,7 +29,7 @@ so python-dotenv, langchaiin
 15) Before that optionally we can write notes in read me
 16) Check python version
 17) python -m venv .venv  (create venv)
-18) source .venv/Scripts/activate    or source .venv/bin/activate (works for macos)
+18)     or source .venv/bin/activate (works for macos)
 19) pip install -r requirements.txt
 20) create app.py
 21) Write or copy the code
